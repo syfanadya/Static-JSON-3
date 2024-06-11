@@ -1,21 +1,21 @@
 [
     {
-        "nama": "Laptop Acer Aspire",
+        "nama": "Acer Aspire",
         "processor": "Intel Core i5",
         "imageId": "acer aspire"
     },
     {
-        "nama": "Laptop Asus Vivobook",
+        "nama": "Asus Vivobook",
         "processor": "AMD Ryzen 5",
         "imageId": "asus vivobook"
     },
     {
-        "nama": "Laptop Dell Inspiron",
+        "nama": "Dell Inspiron",
         "processor": "Intel Core i5",
         "imageId": "dell inspiron"
     },
     {
-        "nama": "Laptop Hp Pavilion",
+        "nama": "Hp Pavilion",
         "processor": "AMD Ryzen 5",
         "imageId": "hp pavilion"
     }
